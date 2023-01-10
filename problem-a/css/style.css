@@ -1,4 +1,18 @@
 img {
-    width: 215;
-    height: 499;
+    max-height: 400px;
+    width: 110px;
+    height: 300px;
+}
+
+body{
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p{
+    line-height: 1.5;
+}
+
+.blue-text{
+    color: blue
 }
